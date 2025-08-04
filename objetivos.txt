@@ -1,5 +1,4 @@
 Tenho varios objetivos como desenvolvedor, porem o meu principal objetivo é conseguir masterizar varias linguagens e 
 ter a capacidade de ser um bom desenvolvedor fullstack, planejo chegar na senioriedade e tambem conseguir trabalhar 
 com projetos internacionais. 
- Hoje aprendi a criar um repositorio, conectalo ao vscode, fazer commits etc.
- 
+ Hoje aprendi a criar um repositorio, conecta-lo ao vscode, fazer commits etc.
